@@ -280,7 +280,7 @@ Participation fee: 195 EUR. We will send you the payment details after registrat
 
 
 <p id="contact">
-  <strong>Registration/Contact</strong>: Please register via email until 23-09-2022: <a href="mailto:doron.goldfarb@tuwien.ac.at">doron.goldfarb@tuwien.ac.at</a>. Maximum number of participants: 15.
+  <strong>Registration/Contact</strong>: Please register via email until 05-06-2023: <a href="mailto:doron.goldfarb@tuwien.ac.at">doron.goldfarb@tuwien.ac.at</a>. Maximum number of participants: 15.
   
 </p>
 
